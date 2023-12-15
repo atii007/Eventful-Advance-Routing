@@ -1,0 +1,42 @@
+.banner-container{
+    width: 100%;
+    
+}
+.hero-banner{
+    background-repeat: no-repeat;
+    opacity: 1;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-size: 100%;
+    z-index: 20;
+    margin-bottom: 35px;
+    margin-top:0px
+}
+.main-container{
+    max-width:1070px;
+    margin:auto;
+    text-align: center;
+}
+.container{
+    margin-bottom:20px;
+}
+.container h2{
+    letter-spacing:2px;
+    width:100%;
+    margin-top:0;
+    margin-bottom:25px;
+    font-size:3vw;
+    color:#ff8c1ae0;
+    font-weight:500;
+}
+.container p{
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    line-height: 35px;
+    font-family: arial;
+	color: #ffffff;
+    font-size: 1.5vw;
+    width: 90%;
+    margin: auto;
+}
